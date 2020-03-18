@@ -1,0 +1,164 @@
+{
+  "intents": [
+    {
+      "intent": ["greet"],
+      "session": "0.0",
+      "option": ""
+    },
+    {
+      "intent": ["bye"],
+      "session": "1.0",
+      "option": ""
+    },
+    {
+      "intent": ["thank"],
+      "session": "2.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_psmas_member"],
+      "session": "3.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_continue_membership"],
+      "session": "4.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_new_born_baby"],
+      "session": "5.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_child_turned_18"],
+      "session": "6.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_marriage"],
+      "session": "7.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_retirement"],
+      "session": "8.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_waiting_period"],
+      "session": "9.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_spectacles"],
+      "session": "10.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_spectacles_eligibility"],
+      "session": "11.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_beneficiary_limit"],
+      "session": "12.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_dual_membership"],
+      "session": "13.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_access_medical_service"],
+      "session": "14.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_choose_doctor"],
+      "session": "15.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_foreign_treatment"],
+      "session": "16.0",
+      "option": ""
+    },
+    {
+      "intent": ["faq_foreign_cover_for_students"],
+      "session": "17.0",
+      "option": ""
+    },
+    {
+      "intent": ["membership_acceptance"],
+      "session": "18.0",
+      "option": ""
+    },
+    {
+      "intent": ["membership_rejection"],
+      "session": "19.0",
+      "option": ""
+    },
+    {
+      "intent": ["change_of_employment"],
+      "session": "20.0",
+      "option": ""
+    },
+    {
+      "intent": ["membership_termination"],
+      "session": "21.0",
+      "option": ""
+    },
+    {
+      "intent": ["rejoin_society"],
+      "session": "22.0",
+      "option": ""
+    },
+    {
+      "intent": ["monthly_subscription"],
+      "session": "23.0",
+      "option": ""
+    },
+    {
+      "intent": ["payment_subscription"],
+      "session": "24.0",
+      "option": ""
+    },
+    {
+      "intent": ["beneficiary_eligibility"],
+      "session": "25.0",
+      "option": ""
+    },
+    {
+      "intent": ["beneficiary_termination"],
+      "session": "26.0",
+      "option": ""
+    },
+    {
+      "intent": ["schedule_of_benefit"],
+      "session": "27.0",
+      "option": ""
+    },
+    {
+      "intent": ["benefit_dual_membership"],
+      "session": "28.0",
+      "option": ""
+    },
+    {
+      "intent": ["recovery_of_shortfall"],
+      "session": "29.0",
+      "option": ""
+    },
+    {
+      "intent": ["submission_of_claim"],
+      "session": "30.0",
+      "option": ""
+    },
+    {
+      "intent": ["submission_after_3_month"],
+      "session": "31.0",
+      "option": ""
+    } 
+  ]
+}

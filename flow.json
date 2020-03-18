@@ -1,0 +1,964 @@
+{
+  "msgs": [
+    {
+      "session": "0.0",
+      "value": {
+        "true": {
+          "reply": "Hi, how can i help you?",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "1.0",
+      "value": {
+        "true": {
+          "reply": "Bye, see you later",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "2.0",
+      "value": {
+        "true": {
+          "reply": "Glad I was able to help",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "3.0",
+      "value": {
+        "true": {
+          "reply": "For Civil Servants- Simply walk into the nearest PSMAS branch and submit your application. Other Contracted Employer Organisations If your employer is already a member of the society, you simply fill in a membership application form and submit it to PSMAS via your employer, or drop it off at any of our offices countrywide. If you are a new employee, you would be granted immediate cover if you join the society within 3 months of employment, after that you would have to undergo a three month waiting period before benefits are active. \nFor Individuals- If your employer is not a member, or are self-employed, you may still join the  society through the Individual Scheme. You would pay your subscriptions via bank debit order, or cash at any of our 10 branches countrywide. You would undergo a three month waiting period before your benefits are active",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "4.0",
+      "value": {
+        "true": {
+          "reply": "Yes, you may visit any of our offices and arrange for payment of subscriptions via direct debit from your bank, or cash deposits at these branches. You would still maintain the same membership number.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "5.0",
+      "value": {
+        "true": {
+          "reply": "Babies are covered from the day they are born, as long as they are registered within 3 months of birth. Parents are encouraged to register their babies as soon as possible to avoid inconveniences  when emergencies arise. Once your baby turns three months before registration, they would have to undergo a three month waiting period should you decide to register them later.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "6.0",
+      "value": {
+        "true": {
+          "reply": "In terms of the Legal Age of Majority Act of 1982 a child who attains the age of eighteen(18) ceases to be a minor. In line with this act, subscriptions for this category of dependants will be charged at adult rate forthwith, unless prior notification is received that he/she is still a student.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "7.0",
+      "value": {
+        "true": {
+          "reply": "If you register your spouse within three months of getting married, they will get immediate cover. After that period , they will have to wait three months while contributing subscriptions for them to start benefiting.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "8.0",
+      "value": {
+        "true": {
+          "reply": "When you retire from employment, particularly government pensioners, it is not automatic that your membership continues as the society would no longer be receiving subscriptions which were being deducted from your salary. You need to come in to the society offices and fill in a change of employer form to indicate that you now fall under government pensions, and your subscriptions are now coming from your pension.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "9.0",
+      "value": {
+        "true": {
+          "reply": "These are restrictions imposed on certain benefits to curb abuse, thus protect funds of the loyal long contributing members. For example, one may not want to join medical aid, and only think of it when expecting a baby, and want to enjoy maternity benefits. To curb such practices, 9 months are imposed to ensure that no-one joins the society while already pregnant. Other waiting periods are imposed on expensive treatments like chemotherapy, haemodialysis, spectacles, and a few others covered under waiting periods \n An employer changing or terminating the medical scheme of its employees, in which case such transfer shall occur at the beginning of the financial year, or reasonable notice must have been furnished to the Society to which an application is made for such transfer to occur at the beginning of the financial year.\n Where the former medical scheme had imposed a general or condition specific waiting period in respect of persons referred to in this rule, and such waiting period had not expired at the time of termination of membership, the Society may impose such waiting period for the unexpired duration of a waiting period imposed by the former medical scheme \n A beneficiary who changes from one benefit option to another within the Society unless that beneficiary is subject to a waiting period on the current benefit option in which case the remaining period may be applied \n A child dependant born during the period of membership.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "10.0",
+      "value": {
+        "true": {
+          "reply": "Spectacles can be replaced once every three years for members who are no longer on waiting period for spectacles. You may walk into any Optician who accepts a PSMAS card for refraction services first, and then they will recommend the spectacles that you need. After that they will get authorisation from PSMAS  for prescribing these to you. If you choose spectacles within your benefit limits, then there is no shortfall.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "11.0",
+      "value": {
+        "true": {
+          "reply": "If you are a new member, you become eligible 3 years after becoming a member. If you are already a member, you may enjoy this benefit once every two years",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "12.0",
+      "value": {
+        "true": {
+          "reply": "There is no limit to the number of beneficiaries you may have.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "13.0",
+      "value": {
+        "true": {
+          "reply": "Dual membership is when one is already a member or beneficiary, and registers again as a member/beneficiary, and thus has two active membership numbers. This normally happens with members who get 100% cover from their employer, and then their spouse also has that benefit at their workplace. \nDual membership is not allowed, and such families are urged to choose one membership under which to fall. The 2nd scenario is when one is a member at another medical aid society. For this one may only claim for medical services from one medical aid society, but not both. The claim from the 2nd medical aid society may be only for shortfalls incurred from the first society.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "14.0",
+      "value": {
+        "true": {
+          "reply": "PSMAS strives to always get wide card acceptability through maintaining good relations with Health Service Providers. There are a lot of Health Service Providers that accept the PSMAS medical aid card, which includes all PSMI facilities, and these display an information poster in their rooms that they accept the PSMAS card. You may also walk into any of our branches for the most up to date list of places where to access medical services.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "15.0",
+      "value": {
+        "true": {
+          "reply": "While PSMI facilities were established for your benefit , and give you a wider coverage and ensure service availability and accessibility, members are free to go to any service provider of their own choice. Where a health service provider will not accept the PSMAS card and you choose to pay cash, the Society will process your claim and pay you back according to Afhoz tariffs and benefit limit.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "16.0",
+      "value": {
+        "true": {
+          "reply": "The society operates a facility where it guarantees payments for medical related costs incurred outside Zimbabwe in respect of operations or treatments which are not available in Zimbabwe where a specialist in Zimbabwe specifically refers the patient to specialist outside Zimbabwe.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "17.0",
+      "value": {
+        "true": {
+          "reply": "Cover for emergency, unforeseen medical expenses whilst outside Zimbabwe on holiday, business, or study can be arranged. Application on the prescribed form accompanied by a medical certificate obtained at the member’s expense from the family doctor of the person(s) travelling stating their current state of health and any existing illnesses must be received by the Society, at least two working days before departure. A fee is payable for each person for whom cover is sought.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "18.0",
+      "value": {
+        "true": {
+          "reply": "Application for membership shall be made on a form provided by the Society either as a hard copy or online.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "19.0",
+      "value": {
+        "true": {
+          "reply": "The Society may at its discretion reject an application and shall not be bound to disclose its reason for so rejecting.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "20.0",
+      "value": {
+        "true": {
+          "reply": "An employer changing or terminating the medical scheme of its employees, in which case such transfer shall occur at the beginning of the financial year, or reasonable notice must have been furnished to the Society to which an application is made for such transfer to occur at the beginning of the financial year. \n Where the former medical scheme had imposed a general or condition specific waiting period in respect of persons referred to in this rule, and such waiting period had not expired at the time of termination of membership, the Society may impose such waiting period for the unexpired duration of a waiting period imposed by the former medical scheme; \n A beneficiary who changes from one benefit option to another within the Society unless that beneficiary is subject to a waiting period on the current benefit option in which case the remaining period may be applied;\n A child dependant born during the period of membership.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "21.0",
+      "value": {
+        "true": {
+          "reply": "Membership shall with immediate effect be terminated if:- \nthe member  terminate membership by giving the Society a sufficient written notice to this effect \nthe member fails to pay subscriptions to the Society, and for this reason the Society at its discretion decides to terminate  membership \nin the opinion of the Society,  has- a)infringed any provision of these Rules  b)defrauded or attempted to defraud the Society or made any material misrepresentation to the Society c)conducted himself, whether towards a member of the Board or staff of the Society or otherwise,  in a manner unbecoming of a member of the Society. \nThe Society reserves the right to levy a twenty percent (20%) administration fee on the total subscription paid at the point one elects to terminate membership before the prescribed benefit date. ",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "22.0",
+      "value": {
+        "true": {
+          "reply": "Any person allowed by the Society, at its discretion, to rejoin after termination, shall be subject to the rules and conditions applicable to new members ",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "23.0",
+      "value": {
+        "true": {
+          "reply": "Monthly Subscriptions- Subscriptions are payable a month in advance and are not refundable. ",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "24.0",
+      "value": {
+        "true": {
+          "reply": "Subscriptions Payments- Subscriptions can be paid using any of the following methods:- \nEcocash platform through biller code 33157.\nCash payments at any of our branches ",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "25.0",
+      "value": {
+        "true": {
+          "reply": "A member may enrol any of the following as his/her beneficiaries: a)Spouse b)Child c)Any other person who is accepted by the Society as being dependant on the member. Any such beneficiary shall only benefit after three (3) calendar months’ contribution. \nThe Society shall levy subscription fees at the adult rate for a beneficiary who attains the age of majority. ",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "26.0",
+      "value": {
+        "true": {
+          "reply": "The beneficiaryship of a person shall terminate:- a)on the termination of the membership of the principal member  b)at the request of the principal member  c)on becoming a principal member in his own right \nIt shall be incumbent on a member to notify the Society within three (3) calendar months in writing of any change in circumstances of any of the beneficiaries, including death, divorce or marriage, and also of any child beneficiary entering employment. \nThe beneficiaryship of a person shall not terminate, if immediately on ceasing to be a beneficiary, an application for enrolment as a member is made to the Society.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "27.0",
+      "value": {
+        "true": {
+          "reply": "Schedule of Benefits \nThe benefits, which may be paid to or on behalf of a member are as provided in the Schedule of Benefits drawn up by the Society from time to time, subject to limitations contained therein. \nDual membership within the Society shall not entitle a member to dual benefits. \nIn keeping with the provisions of the Medical Services Act, 1988 and the regulations made thereafter, where a member is registered on another Medical Aid Society or any other organisation providing Health Insurance, the Society shall pay the difference between the Claim and the Award by the other Medical Aid Society according to the Society’s Tariff.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "28.0",
+      "value": {
+        "true": {
+          "reply": "Dual membership does not make you entitled for dual benefits",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "29.0",
+      "value": {
+        "true": {
+          "reply": "The Society may agree with employer organisations, that, in the case of a member or beneficiary where the Society has paid shortfalls to a Service Provider incurred by a member, the shortfalls may be recovered by the Society through the employer.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "30.0",
+      "value": {
+        "true": {
+          "reply": "All claims submitted for settlement, shall be subject to verification and validation before payment. \nThe Society reserves its right to reject a claim not submitted in the correct format. \nAll claims must be supported by a detailed statement of account, whether paid or not, giving:- a)the name of the member  b)the name and date of birth of the patient  c)the date of treatment in respect of each patient.  d)The Code number(s) as shown in the Zimbabwe Relative Value Schedule where applicable, or a description of the treatment or service in respect of the charges raised. \nClaims for treatment obtained in Zimbabwe are required, after completion by the member, to be forwarded to the practitioner concerned for his certification and onward transmission to the Society for payment of the award. \nClaims for reimbursement of amounts already paid must be accompanied by an official receipt and will be processed according to tariff and paid direct to the member.\nThe Board may direct that in the case of payments to be made to specified classes of practitioners  or institutions, the claims be submitted by the practitioner or institution on the conditions, if any, fixed by the Society are complied with.\nThe Society may reject any claim for expenses incurred through alcoholism, negligence or deliberate act.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    },
+    {
+      "session": "31.0",
+      "value": {
+        "true": {
+          "reply": "The Society shall reject any claim submitted more than three months after the date on which the treatment or service to which the claim relates was given, unless the member satisfies the Society that the failure to submit the claim or the failure to cause the claim to be submitted was in no way due to the member’s inaction or negligence.",
+          "next_session": "",
+          "msg": ""
+        },
+        "false": {
+          "reply": "Welcome",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "repeat": {
+          "reply": "",
+          "next_session": "",
+          "msg": "Menu"
+        },
+        "skip": {
+          "reply": "",
+          "next_session": "",
+          "msg": ""
+        }
+      },
+      "validate": "none",
+      "action": "none",
+      "val_tag": "",
+      "skip_tags": [],
+      "activity": ""
+    } 
+  ]
+}
